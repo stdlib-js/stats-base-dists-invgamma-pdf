@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-17)
+
+<section class="features">
+
+### Features
+
+-   [`6f24547`](https://github.com/stdlib-js/stdlib/commit/6f2454795f4ed502e3ed735034dd253899bc6d08) - add C implementation for `@stdlib/stats-base/dists/invgamma/pdf` [(#4421)](https://github.com/stdlib-js/stdlib/pull/4421)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3676](https://github.com/stdlib-js/stdlib/issues/3676)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`6f24547`](https://github.com/stdlib-js/stdlib/commit/6f2454795f4ed502e3ed735034dd253899bc6d08) - **feat:** add C implementation for `@stdlib/stats-base/dists/invgamma/pdf` [(#4421)](https://github.com/stdlib-js/stdlib/pull/4421) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`1db3cc5`](https://github.com/stdlib-js/stdlib/commit/1db3cc5291f4d08855501db089953299de98b8a4) - **bench:** refactor random number generation in `stats/base/dists/invgamma` [(#4974)](https://github.com/stdlib-js/stdlib/pull/4974) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
