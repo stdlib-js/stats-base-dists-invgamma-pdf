@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-17)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`6f24547`](https://github.com/stdlib-js/stdlib/commit/6f2454795f4ed502e3ed735034dd253899bc6d08) - **feat:** add C implementation for `@stdlib/stats-base/dists/invgamma/pdf` [(#4421)](https://github.com/stdlib-js/stdlib/pull/4421) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`1db3cc5`](https://github.com/stdlib-js/stdlib/commit/1db3cc5291f4d08855501db089953299de98b8a4) - **bench:** refactor random number generation in `stats/base/dists/invgamma` [(#4974)](https://github.com/stdlib-js/stdlib/pull/4974) _(by Karan Anand)_
 
