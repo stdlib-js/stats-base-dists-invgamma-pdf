@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-13)
+## Unreleased (2026-01-13)
 
 <section class="features">
 
@@ -34,7 +34,9 @@ This release closes the following issue:
 
 <details>
 
--   [`150854b`](https://github.com/stdlib-js/stdlib/commit/150854b200a0db4ef3f2001c16d0c743c69ee32b) - **docs:** replace manual `for` loop in examples [(#8229)](https://github.com/stdlib-js/stdlib/pull/8229) _(by Harsh)_
+-   [`3e81841`](https://github.com/stdlib-js/stdlib/commit/3e81841c3790593fb3b7e85e7cfdc41680ed67be) - **bench:** update random value generation [(#9727)](https://github.com/stdlib-js/stdlib/pull/9727) _(by Harsh Yadav)_
+-   [`97218a1`](https://github.com/stdlib-js/stdlib/commit/97218a12e1d5ec1479a5b39ac4d32318c372e922) - **docs:** fix TSDoc example code return annotations _(by Philipp Burckhardt)_
+-   [`150854b`](https://github.com/stdlib-js/stdlib/commit/150854b200a0db4ef3f2001c16d0c743c69ee32b) - **docs:** replace manual `for` loop in examples [(#8229)](https://github.com/stdlib-js/stdlib/pull/8229) _(by Harsh Yadav)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
@@ -55,7 +57,7 @@ This release closes the following issue:
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Dhruv Arvind Singh
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
