@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-09-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`986f407`](https://github.com/stdlib-js/stdlib/commit/986f40743acffff7cc27ad9b42fd01f9776e4e59) - **test:** migrate `stats/base/dists/invgamma/pdf` to ULP-based assertions [(#15068)](https://github.com/stdlib-js/stdlib/pull/15068) _(by Athan Reines)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8a6c701`](https://github.com/stdlib-js/stdlib/commit/8a6c701c26772991b4f50e0d2b5194d676c80d1b) - **bench:** refactor to use string interpolation in `stats/base/dists/invgamma` [(#10442)](https://github.com/stdlib-js/stdlib/pull/10442) _(by Lokesh Ranjan)_
